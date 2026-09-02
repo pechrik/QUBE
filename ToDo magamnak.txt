@@ -1,6 +1,0 @@
-script
-ZABBIX
-
-------RAER OSSZERAKAS UTAN: ------
-LOGIKAI HSRP cím (?)
-CHAP virtualis
